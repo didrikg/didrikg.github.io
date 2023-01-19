@@ -1,0 +1,5 @@
+{
+  "averagePrice": { "currency": "SEK", "amount": 24500 },
+  "lowestPrice": { "currency": "SEK", "amount": 200 },
+  "highestPrice": { "currency": "SEK", "amount": 230000 }
+}
